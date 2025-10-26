@@ -11,7 +11,7 @@ speed_det.py # Optimizes existing FPS
 videos/ # Sample input videos 
 requirements.txt # Dependency list 
 Demo Video:
-https://drive.google.com/file/d/1KTz4o2aSbyAm528ALn4YBNzu4gGY1vYz/view?usp=sharing
+https://drive.google.com/file/d/1P0K3z_P-wR_M2CBOtWEkiKoSMlyz28kh/view?usp=sharing
 
 ##  Installation
 ```bash
