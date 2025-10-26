@@ -4,12 +4,12 @@
 Auto Vehincle Detection is a lightweight real-time perception system that detects nearby objects and estimates their collision risk level \
 🟩 GREEN (Safe) 🟨 YELLOW (Caution)  🟥 RED (High Risk) 
 ## File Structure
-main.py # Control point for real-time demo
-├── perception.py # YOLOv8 detection 
-├── risk.py # Risk estimation logic
-├── speed_det.py # Optimizes existing FPS
-├── videos/ # Sample input videos
-└── requirements.txt # Dependency list
+main.py # Control point for real-time demo 
+perception.py # YOLOv8 detection  
+risk.py # Risk estimation logic 
+speed_det.py # Optimizes existing FPS 
+videos/ # Sample input videos 
+requirements.txt # Dependency list 
 ##  Installation
 ```bash
 # Create and activate a virtual environment 
